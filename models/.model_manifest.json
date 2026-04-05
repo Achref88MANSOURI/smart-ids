@@ -1,0 +1,55 @@
+{
+  "created_at": "2026-04-03T18:14:20.867342Z",
+  "critical_only": true,
+  "models": {
+    "modele_ids.pkl": {
+      "signature": "ffe40f79b595f26d1fd5eb20f58d2027e27fbe99d14828e36b36e1c9d3500b02",
+      "size": 1385625,
+      "modified": "2026-03-20T04:55:04.411027Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    },
+    "autoencoder_ids.keras": {
+      "signature": "4ee57fe09a9c755a797e3d8e6d60bda4707b7bf09b1d13e96a2a6db8c934e97f",
+      "size": 165968,
+      "modified": "2026-03-20T22:16:12.219765Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    },
+    "isolation_forest.pkl": {
+      "signature": "08974bc1ef639032107898b569b4efd9ea3a5dafee17e0e69016e64f9f2c1a03",
+      "size": 942776,
+      "modified": "2026-03-20T04:55:04.447983Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    },
+    "lstm_encoder.keras": {
+      "signature": "397213cf0339e6e6af2d4a76e46591098e18b579e90f344dd10778bfbce0fbcb",
+      "size": 175114,
+      "modified": "2026-03-28T17:51:17.283543Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    },
+    "lstm_v3_real.keras": {
+      "signature": "867a1bb3ebeea47f2205a34d7945b550295281358aa363bf9f3d2ca16a913128",
+      "size": 424831,
+      "modified": "2026-03-28T17:28:03.362196Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    },
+    "lstm_ae_attention.keras": {
+      "signature": "766faba5cc2f15d4a1999802de41d89cfa3f2493c394b605f4ef4d9ecb4a7d69",
+      "size": 863336,
+      "modified": "2026-03-28T17:51:17.260442Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    },
+    "xgb_v3_master.pkl": {
+      "signature": "bd19f6d67610df79d9985914b072b73c37c17187b66bf773084bc696b8f110d7",
+      "size": 1236075,
+      "modified": "2026-04-02T05:16:27.455586Z",
+      "algorithm": "hmac-sha256",
+      "status": "verified"
+    }
+  }
+}

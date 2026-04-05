@@ -1,0 +1,16 @@
+{
+  "model_version": "LSTM_V4_AUTOENCODER_ATTENTION",
+  "architecture": "LSTM Autoencoder + Attention Mechanism",
+  "threshold_method": "Adaptive P99 sliding window N=200",
+  "threshold_percentile": 99.0,
+  "window_size": 200,
+  "sequence_length": 10,
+  "n_features": 6,
+  "latent_dim": 16,
+  "score_formula": "0.7*MSE + 0.3*MaxTimestepError",
+  "final_auc": 0.981979405034325,
+  "final_recall": 0.894736841634349,
+  "final_fpr": 1.0869565217095936,
+  "final_f1": 0.8499999945875,
+  "data_source": "smart-ids-alerts-v5 chronologique reel"
+}
