@@ -217,15 +217,3 @@ Latence pipeline      : < 30 secondes
 
 MIT License — voir [LICENSE](LICENSE)
 
----
-
-## 👤 Auteur
-
-**Achref Mansouri** — Projet de fin d'études en Cybersécurité
-
-- LinkedIn : [linkedin.com/in/achref-mansouri](https://linkedin.com/in/achref-mansouri)
-- GitHub : [@achrefmansouri600](https://github.com/achrefmansouri600)
-
----
-
-*Smart-IDS Framework V5 — Note globale : 8/10*
